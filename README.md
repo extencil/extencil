@@ -1,6 +1,11 @@
-<p align="center">
-	<img src="text.png">
-</p>
+<div align="center">
+	<br/>
+	<a href="logo.svg">
+	<img alt="Click to see the source" height="400" src="logo.svg" width="800" />
+	</a>
+	<br/>
+</div>
+
 
 > **Warning** <p>
 > I'm not for rent. All my work is for the public.
