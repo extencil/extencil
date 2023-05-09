@@ -1,7 +1,7 @@
 <div align="center">
 	<br/>
-	<a href="logo.svg">
-	<img alt="Click me (:" height="400" src="logo.svg" width="800" />
+	<a href="assets/logo.svg">
+	<img alt="Click me (:" height="400" src="assets/logo.svg" width="800" />
 	</a>
 	<br/>
 </div>
