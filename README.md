@@ -1,35 +1,12 @@
-<div align="center">
-	<br/>
-	<a href="assets/logo.svg">
-	<img alt="Click me (:" height="400" src="assets/logo.svg" width="800" />
-	</a>
-	<br/>
-</div>
+# wh0 am i?
+Well, i've been working since 2017 with Red Team operations, Pentests and implementations of sophisticated security solutions. This includes Firewalls, HSMs and some other electronic components for biometric validation in various scenarios.
 
-<br><br>
+Ethically, I have been successful in compromising several assets in large companies and government agencies during my career.
 
-<!-- Info -->
+# Publ1c
+I'm not for hire at this moment. All of my job is for the public only, feel free to open a problem ou suggest new features on my active projects.
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
->   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
-> </picture><br>
->
-> I'm not for rent. All my work is for the public.
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
->   <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
-> </picture><br>
->
-> Learn to push the limits and seek the unknown.
->  <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
->   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
-> </picture><br>
->
-> If you have any requests, you can find me on the [THC](## "The Hackers Choice") communities. [[Telegram](https://t.me/thcorg)]
+# F1nd me
+You can easily find me in the [The Hacker's Choice](https://t.me/thcorg) communities.
 
-<br><br>
-
-<p align="center"><i>We are not anti-government. We are anti-stupidity. Unfortunately there seems to be considerable overlap.</i></p>
-<p align="center"><a href="mailto:members@thc.org">members@thc.org</a>
+If you're paranoid, send me a signed e-mail with a PGP public key at [extencil@proton.thc.org](mailto:extencil@proton.thc.org).
