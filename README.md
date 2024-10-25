@@ -6,4 +6,4 @@
 - JP: これは私の個人的なプロフィールです。ここで表明された見解は私自身のものであり、必ずしも雇用主の見解を反映するものではありません。
 - PT: este é o meu perfil pessoal. as opiniões expressas aqui são apenas minhas e não refletem necessariamente as opiniões do meu empregador.
 
-this disclaimer is a fork [stealth](https://github.com/stealth). i make those words my own.
+this disclaimer is a fork of [stealth](https://github.com/stealth)'s disclaimer. i make those words my own.
