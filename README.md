@@ -1,3 +1,5 @@
+
+<div align="center">
 <pre>
 +----------------------------------------------------------------------------+
 |                              [ disclaimer.txt ]                            |
@@ -15,9 +17,12 @@
 |  > info wants to be free — but thoughts are mine.                          |
 +----------------------------------------------------------------------------+
 </pre>
+</div>
+<br>
 
-<p align="center">Legado não se deixa PARA, se deixa EM alguém.</p>
+<p align="center"><i>Legado não se deixa PARA, se deixa EM alguém</i></p>
 
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/extencil/extencil/refs/heads/main/wtf.gif" width="700"/>
 </p>
